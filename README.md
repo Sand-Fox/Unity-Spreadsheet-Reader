@@ -1,2 +1,2 @@
 # Unity-Spreadsheet-Reader
-A script to import Google Sheet data into Unity.
+A script to easily import Google Sheet data into Unity.
